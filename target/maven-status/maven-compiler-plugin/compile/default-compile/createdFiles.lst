@@ -1,0 +1,5 @@
+com\rsj\hibernate\InformeManager.class
+com\rsj\informe\Informe.class
+com\rsj\informe\GeneraFichero.class
+com\rsj\hibernate\ProveedoresPK.class
+com\rsj\hibernate\Proveedores.class
